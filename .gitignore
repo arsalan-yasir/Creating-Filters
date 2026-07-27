@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+
+# AI coding tools
+.claude/
+.continue/
+.cursor/
+.windsurf/
+
+# Distribution
+*.zip
